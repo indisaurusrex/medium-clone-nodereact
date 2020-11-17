@@ -1,3 +1,5 @@
+# A Medium clone to practice Node backend and React front end application creation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
